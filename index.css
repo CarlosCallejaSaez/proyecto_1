@@ -10,11 +10,8 @@
   --secondary: #777;
   --tertiary: #1b80ecc4;
   --light: #ffcc00e9;
-  --font-primary:32px;
-  --font-secondary:24px;
-
-
-
+  --font-primary: 32px;
+  --font-secondary: 24px;
 }
 
 h1,
@@ -69,7 +66,7 @@ li:hover {
 .articulos-section {
   margin: 40px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-content: center;
   flex-wrap: wrap;
